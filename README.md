@@ -9,3 +9,7 @@ https://delicate-sunburst-5de9a7.netlify.app/  (deploy)
 3.Bootstrap
 
 
+
+
+тут bootstrap не з examples:
+https://jocular-gingersnap-4af3a7.netlify.app/about
